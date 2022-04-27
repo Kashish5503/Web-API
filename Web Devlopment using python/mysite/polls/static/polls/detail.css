@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+form {
+    height: 100%;
+    width: 100%;
+    color: #f8f8f8;
+    background-color: #b8407a;
+    padding: 50px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+input[type="submit"] {
+    padding: 10px;
+    font-size: 1.25rem;
+    margin-top: 20px;
+    width: 6rem;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+label {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 1.25rem;
+}
+
+.field {
+    margin-top: 40px;
+}
+
+fieldset {
+    border: 3px solid #bdbdbd;
+}
