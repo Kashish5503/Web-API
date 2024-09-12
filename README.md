@@ -1,0 +1,1 @@
+Hello! My name is kashish goyal. This WEB API is created using Python and Django. Its a simple web api with admin login to give admin controls. The part accessible to everyone is a survey page used to gather data.
